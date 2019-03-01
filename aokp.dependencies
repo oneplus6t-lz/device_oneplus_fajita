@@ -1,15 +1,15 @@
 [
   {
-    "remote": "los",
-    "repository": "LineageOS/android_device_oneplus_sdm845-common",
+    "remote": "github",
+    "repository": "oneplus6t-lz/device_oneplus_sdm845-common",
     "target_path": "device/oneplus/sdm845-common",
-    "branch": "lineage-16.0"
+    "branch": "pie"
   },
   {
-    "remote": "los",
-    "repository": "LineageOS/android_kernel_oneplus_sdm845",
+    "remote": "github",
+    "repository": "oneplus6t-lz/kernel_oneplus_sdm845",
     "target_path": "kernel/oneplus/sdm845",
-    "branch": "lineage-16.0"
+    "branch": "pie"
   },
   {
     "remote": "los",
