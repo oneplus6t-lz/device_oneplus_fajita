@@ -22,9 +22,9 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/oneplus/fajita/device.mk)
 
 # Inherit some common AOKP stuff.
-$(call inherit-product, vendor/aokp/configs/common_full_phone.mk)
+#$(call inherit-product, vendor/aokp/configs/common_full_phone.mk)
 
-PRODUCT_NAME := aokp_fajita
+PRODUCT_NAME := pa_fajita
 PRODUCT_DEVICE := fajita
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_BRAND := OnePlus
