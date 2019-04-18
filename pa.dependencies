@@ -3,7 +3,7 @@
     "remote": "github",
     "repository": "oneplus6t-lz/device_oneplus_sdm845-common",
     "target_path": "device/oneplus/sdm845-common",
-    "branch": "pie"
+    "branch": "pa-pie"
   },
   {
     "remote": "github",
