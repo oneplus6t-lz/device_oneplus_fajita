@@ -25,9 +25,6 @@ TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_GAPPS_ARCH := arm64
 CUSTOM_BUILD_TYPE := OFFICIAL
 
-# Inherit some common AOKP stuff.
-#$(call inherit-product, vendor/aokp/configs/common_full_phone.mk)
-
 PRODUCT_NAME := pa_fajita
 PRODUCT_DEVICE := fajita
 PRODUCT_MANUFACTURER := OnePlus
