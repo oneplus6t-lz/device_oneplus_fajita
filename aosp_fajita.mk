@@ -25,7 +25,7 @@ $(call inherit-product, device/oneplus/fajita/device.mk)
 $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
 # Official
-CUSTOM_BUILD_TYPE := OFFICIAL
+CUSTOM_BUILD_TYPE := LightningZap
 
 # Boot Animation
 TARGET_BOOT_ANIMATION_RES := 1080
@@ -42,7 +42,7 @@ PRODUCT_NAME := aosp_fajita
 PRODUCT_DEVICE := fajita
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_BRAND := OnePlus
-PRODUCT_MODEL := ONEPLUS A6013
+PRODUCT_MODEL := ONEPLUS LZ
 
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
